@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aarushi211
 - 👀 I’m interested in Artificial Intelligence 
-- 🌱 I’m currently learning the bsics of AI
+- 🌱 I’m currently learning the basics of AI
 - 💞️ I’m looking to collaborate on a project based on articial intelligence 
 - 📫 How to reach me aarushi.jain211@gmail.com
 
