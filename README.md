@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **aarushi.jain211@gmail.com**
 
-- 📄 Know about my experiences [https://aarushi211.github.io/Resume/](https://aarushi211.github.io/Resume/)
+- 📄 Know about my experiences [https://aarushi211.github.io/CV/](https://aarushi211.github.io/CV/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
