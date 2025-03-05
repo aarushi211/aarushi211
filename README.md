@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aarushi211" alt="aarushi211" /></a> </p>
 
-- 🔭 I’m currently working on **Plant Disease Detection**
+- 🔭 I’m currently working on **Abnormal Brain Activity Detection**
 
-- 🌱 I’m currently learning **Flask Micro-framework**
+<!--- - 🌱 I’m currently learning **Flask Micro-framework** --->
 
 - 👯 I’m looking to collaborate on **Projects related to AI & ML to gain experience**
 
